@@ -1,4 +1,3 @@
-```markdown
 # QA Analyst Technical Assessment
 
 **Candidate:**  Nadia Aimandi
@@ -26,5 +25,3 @@ python solution.py
 
 2. To run all tests:
        pytest -v solution.py
-
-```
