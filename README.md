@@ -1,8 +1,8 @@
 # QA Analyst Technical Assessment
 
-**Candidate:**  Nadia Aimandi
-**Language Used:** Python
-**Completion Date:** 10/15/2025
+- **Candidate:**  Nadia Aimandi
+- **Language Used:** Python
+- **Completion Date:** 10/15/2025
 
 ## Part 1: Functional Programming
 - **Time Spent:** ~30 minutes
