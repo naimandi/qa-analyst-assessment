@@ -13,7 +13,7 @@ The function `remove_duplicates` uses Python’s `filter` with a `lambda` expres
 ## Part 2: API Testing  
 - **Time Spent:** ~30 minutes
 - **Approach:** 
-The `pytest` library was used for testing the target API's endpoints. Each test verifies the status code corresponding to the specific request (GET, POST, etc.) and checks the correctness of the response content. Error messsages were added to help pinpoint issues if a test fails.
+The `pytest` library was used for testing the target API's endpoints. Each test verifies the status code corresponding to the specific request and checks the correctness of the response content. Error messsages were added to help pinpoint issues if a test fails.
 
 ## How to Run
 ### Part 1
